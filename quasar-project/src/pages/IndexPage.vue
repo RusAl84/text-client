@@ -11,9 +11,9 @@
         <q-btn color="primary" @click="onSendClick">
           Определить тематики теста
         </q-btn>
-        <q-btn color="primary" :href="hosttm1">
+        <!-- <q-btn color="primary" :href="hosttm1">
           Визуализация облако слов
-        </q-btn>
+        </q-btn> -->
         <q-btn color="primary" :href="hosttm2">
           Интерактивная визуализация
         </q-btn>
